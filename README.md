@@ -4,4 +4,4 @@ A GIS (Geographic Information System) software that displays maps and relevant i
 
 This project was created with a team of two other members for ECE297 which is a course at the University of Toronto on software design and communication. As part of the course guidelines, the source code cannot be publicly shared, however, a detailed description and final software images are given below.
 
-##Design and Layout
+## Design and Layout
