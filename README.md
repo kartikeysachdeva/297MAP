@@ -9,4 +9,5 @@ This project was created with a team of two other members for ECE297 which is a 
 ### 1. Welcome Menu
 - A brief welcome menu is displayed when the map is initially loaded
 - Directs the user towards the help menu in case the user is unfamiliar with the software
-![](images/filenamemainUI.jpg)
+![mainUI](https://user-images.githubusercontent.com/69488258/120865290-c1db4280-c55b-11eb-86ca-99da5400f08a.jpg)
+
