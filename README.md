@@ -13,8 +13,8 @@ This project was created with a team of two other members for ECE297 which is a 
 
 ### 2. Main User Interface
 
-Top Left Corner: Input boxes are used to get travel directions between a starting and ending intersection. Drop down menu below to load other maps
-Top Right Corner: Buttons to toggle other modes and features
-Bottom Right Corner: Buttons for zoom and pan. The scroll wheel can be used to zoom and pan as well.
-Bottom Left Corner: Dynamic status updates in reponse to user actions
+- Top Left Corner: Input boxes are used to get travel directions between a starting and ending intersection. Drop down menu below to load other maps
+- Top Right Corner: Buttons to toggle other modes and features
+- Bottom Right Corner: Buttons for zoom and pan. The scroll wheel can be used to zoom and pan as well.
+- Bottom Left Corner: Dynamic status updates in reponse to user actions
 
