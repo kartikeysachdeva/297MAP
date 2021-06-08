@@ -19,4 +19,4 @@ This project was created with a team of two other members for ECE297 which is a 
 - Bottom Left Corner: Dynamic status updates in reponse to user actions
 ![](https://github.com/lilkarti/297MAP/blob/main/Images/mainUI.jpg)
 
-### 3. 
+## Key Features
