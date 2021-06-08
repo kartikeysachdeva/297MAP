@@ -17,4 +17,6 @@ This project was created with a team of two other members for ECE297 which is a 
 - Top Right Corner: Buttons to toggle other modes and features
 - Bottom Right Corner: Buttons for zoom and pan. The scroll wheel can be used to zoom and pan as well.
 - Bottom Left Corner: Dynamic status updates in reponse to user actions
+![](https://github.com/lilkarti/297MAP/blob/main/Images/mainUI.jpg)
 
+### 3. 
