@@ -20,3 +20,8 @@ This project was created with a team of two other members for ECE297 which is a 
 ![](https://github.com/lilkarti/297MAP/blob/main/Images/mainUI.jpg)
 
 ## Key Features
+All selections and items displayed on the map can be cleared using the "Clear" button underneath the maps drop down menu and all input boxes have an autocomplete feature. Any additional windows can be hidden or shown using the "Additional Window" option in the top right corner.
+
+### 1. Loading Maps 
+- Maps can be loaded using the drop down menu and the "Load Map" button underneath
+- Any other city can be added to the drop down menu as long as the osm.bin file is installed
