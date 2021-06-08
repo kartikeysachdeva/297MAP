@@ -25,3 +25,4 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 ### 1. Loading Maps 
 - Maps can be loaded using the drop down menu and the "Load Map" button underneath
 - Any other city can be added to the drop down menu as long as the osm.bin file is installed
+
