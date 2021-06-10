@@ -26,3 +26,4 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 - Maps can be loaded using the drop down menu and the "Load Map" button underneath
 - Any other city can be added to the drop down menu as long as the osm.bin file is installed
 
+![](https://github.com/lilkarti/297MAP/blob/main/Images/loadMap.gif)
