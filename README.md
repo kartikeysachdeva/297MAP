@@ -33,3 +33,6 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 - The shortest path is found using an A* algorithm
 
 ![](https://github.com/lilkarti/297MAP/blob/main/Images/travelDirections.png)
+
+###3. Point of Interest Search
+- Point of Interests such as restaurants, banks, hospitals, schools, etc. can be specifically searched for
