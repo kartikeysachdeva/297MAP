@@ -39,3 +39,6 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 
 ![](https://github.com/lilkarti/297MAP/blob/main/Images/POISearch.png)
 
+### 4. Subway Stations
+- Displays all subway stations for the city
+
