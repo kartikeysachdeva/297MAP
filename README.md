@@ -27,3 +27,7 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 - Any other city can be added to the drop down menu as long as the osm.bin file is installed
 
 ![](https://github.com/lilkarti/297MAP/blob/main/Images/loadMap.gif)
+
+### 2. Travel Directions
+- The user can enter a start and end intersection to get travel directions which are displayed in a separate window
+- The shortest path is found using an A* algorithm
