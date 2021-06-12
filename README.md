@@ -48,6 +48,8 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 - There are two different viewing modes (dark more and colourblind mode) to allow for greater accssibility and ease of use
 
 #### Dark Mode 
+![](https://github.com/lilkarti/297MAP/blob/main/Images/darkMode.png)
 
 #### Colour Blind Mode 
+![](https://github.com/lilkarti/297MAP/blob/main/Images/colourblindMode.png)
 
