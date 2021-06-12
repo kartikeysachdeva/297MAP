@@ -44,3 +44,6 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 
 ![](https://github.com/lilkarti/297MAP/blob/main/Images/subwayStations.png)
 
+### 5. Viewing Modes
+- There are two different viewing modes (dark more and colourblind mode) to allow for greater accssibility and ease of use
+
