@@ -34,7 +34,7 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 
 ![](https://github.com/lilkarti/297MAP/blob/main/Images/travelDirections.png)
 
-###3. Point of Interest Search
+### 3. Point of Interest Search
 - Point of Interests such as restaurants, banks, hospitals, schools, etc. can be specifically searched for
 
 ![](https://github.com/lilkarti/297MAP/blob/main/Images/POISearch.png)
