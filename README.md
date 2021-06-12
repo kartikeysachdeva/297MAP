@@ -47,7 +47,7 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 ### 5. Viewing Modes
 - There are two different viewing modes (dark more and colourblind mode) to allow for greater accssibility and ease of use
 
-## Dark Mode 
+#### Dark Mode 
 
-## Colour Blind Mode 
+#### Colour Blind Mode 
 
