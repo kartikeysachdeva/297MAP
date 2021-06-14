@@ -53,3 +53,4 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 #### Colour Blind Mode 
 ![](https://github.com/lilkarti/297MAP/blob/main/Images/colourblindMode.png)
 
+### 6. Intersections Between Two Streets
