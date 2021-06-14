@@ -57,3 +57,4 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 Intersections can be either clicked on or searched for through the two input boxes
 An additional window is displayed with all names of the intersections currently being highlighted on the map
 
+![](https://github.com/lilkarti/297MAP/blob/main/Images/intersectionsBetweenTwoStreets.gif)
