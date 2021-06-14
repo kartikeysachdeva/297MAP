@@ -54,3 +54,6 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 ![](https://github.com/lilkarti/297MAP/blob/main/Images/colourblindMode.png)
 
 ### 6. Intersections Between Two Streets
+Intersections can be either clicked on or searched for through the two input boxes
+An additional window is displayed with all names of the intersections currently being highlighted on the map
+
