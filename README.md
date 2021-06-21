@@ -77,3 +77,6 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 ### 8. Error Messages and Help Menu
 
 
+- Error messages are provided when an invalid input is given or the user misuses the system
+- A help menu is available for further guidance
+
