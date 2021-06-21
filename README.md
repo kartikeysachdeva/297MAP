@@ -81,3 +81,5 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 - A help menu is available for further guidance
 
 #### Error Messages
+
+#### Help Menu 
