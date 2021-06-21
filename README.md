@@ -72,4 +72,5 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 
 #### Language Support  
 
-[](https://github.com/lilkarti/297MAP/blob/main/Images/languageSupport.png)
+![](https://github.com/lilkarti/297MAP/blob/main/Images/languageSupport.png)
+
