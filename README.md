@@ -80,3 +80,4 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 - Error messages are provided when an invalid input is given or the user misuses the system
 - A help menu is available for further guidance
 
+#### Error Messages
