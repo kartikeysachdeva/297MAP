@@ -66,5 +66,10 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 - Certain maps such as Tokyo and Tehran have street names displayed in Japanese and Arabic, respectively.
 
 #### Icons and Arrows 
+
+![](https://github.com/lilkarti/297MAP/blob/main/Images/iconsAndArrows.png)
+
+
 #### Language Support  
+
 
