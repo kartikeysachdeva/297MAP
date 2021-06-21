@@ -64,3 +64,7 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 - Point of Interests are represented using easily recognizable icons
 - One way streets are identified by a blue arrow
 - Certain maps such as Tokyo and Tehran have street names displayed in Japanese and Arabic, respectively.
+
+#### Icons and Arrows 
+#### Language Support  
+
