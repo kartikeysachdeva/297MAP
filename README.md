@@ -87,3 +87,10 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 #### Help Menu 
 
 ![](https://github.com/lilkarti/297MAP/blob/main/Images/helpMenu.png)
+
+## Notable Algorithms
+
+### 1. Dijkstra's and A* Algorithms
+
+- The main path finding algorithm used was Dijkstra's Algorithm
+- To imporve the performance an A* heuristic was implemented that uses the shortest travel time for a more directed search
