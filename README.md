@@ -94,3 +94,4 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 
 - The main path finding algorithm used was Dijkstra's Algorithm
 - To imporve the performance an A* heuristic was implemented that uses the shortest travel time for a more directed search
+- 
