@@ -94,4 +94,13 @@ All selections and items displayed on the map can be cleared using the "Clear" b
 
 - The main path finding algorithm used was Dijkstra's Algorithm
 - To imporve the performance an A* heuristic was implemented that uses the shortest travel time for a more directed search
-- 
+
+### 2. Travelling Salesman Problem 
+
+An algorithm was implemented to solve a version of the Traveling Saleman Problem. An iterative approach was taken with the following algorithms used to generate a valid solution within 50 seconds:
+
+- Greedy Algorithm: To generate an intial solution quickly
+- Local Pertubations: Swaps and a custom reversal operator was used to improve the initial solution
+- Multistart: Multiple start locations were considered and the best one was selected to explore the solution space more
+
+The algorithm was tested for different inputs on multiple maps. These test cases were used to produe an average Quality of Result (QoR). Here is the average QoR for the iterative approach to the problem:
