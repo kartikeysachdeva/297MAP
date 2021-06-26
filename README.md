@@ -104,3 +104,8 @@ An algorithm was implemented to solve a version of the Traveling Saleman Problem
 - Multistart: Multiple start locations were considered and the best one was selected to explore the solution space more
 
 The algorithm was tested for different inputs on multiple maps. These test cases were used to produe an average Quality of Result (QoR). Here is the average QoR for the iterative approach to the problem:
+
+
+![](https://github.com/lilkarti/297MAP/blob/main/Images/m4Improvement.png)
+
+
